@@ -1,6 +1,6 @@
-name = "General"
-uuid = "23338594-aafe-5451-b93e-139f81909106"
-repo = "https://github.com/JuliaRegistries/General.git"
+name = "General2"
+uuid = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+repo = "https://github.com/iss2g/General2"
 
 description = """
 Official general Julia package registry where people can
